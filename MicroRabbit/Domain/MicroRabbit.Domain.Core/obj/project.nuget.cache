@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lyOw9pgJVpibF4rAnu3w1UDb50uCS1++iP0ktlGtqrXksEcktm09i50zpKFfvzclDgsqvYm3ftaLE4qVt7K74Q==",
+  "dgSpecHash": "1pHgO7OY5m5V7MNm+ucUkbdQuzTYHJmxypwYT1NUuiCqLEg+zO12B0MG4AXaaPMkR0RG1yh+wG+JEEt+NFKyRQ==",
   "success": true,
   "projectFilePath": "/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
+    "/Users/yang2/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
     "/Users/yang2/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/yang2/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
