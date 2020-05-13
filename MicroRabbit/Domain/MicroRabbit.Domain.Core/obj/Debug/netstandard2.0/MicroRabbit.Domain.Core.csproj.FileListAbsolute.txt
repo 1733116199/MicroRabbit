@@ -1,9 +1,0 @@
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/netstandard2.0/MicroRabbit.Domain.Core.deps.json
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/netstandard2.0/MicroRabbit.Domain.Core.dll
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/netstandard2.0/MicroRabbit.Domain.Core.pdb
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.csprojAssemblyReference.cache
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.AssemblyInfo.cs
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.dll
-/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.pdb
