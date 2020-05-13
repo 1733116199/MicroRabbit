@@ -1,0 +1,9 @@
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/netstandard2.0/MicroRabbit.Infra.IoC.deps.json
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/netstandard2.0/MicroRabbit.Infra.IoC.dll
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/netstandard2.0/MicroRabbit.Infra.IoC.pdb
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/netstandard2.0/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/netstandard2.0/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/netstandard2.0/MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/netstandard2.0/MicroRabbit.Infra.IoC.AssemblyInfo.cs
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/netstandard2.0/MicroRabbit.Infra.IoC.dll
+/Users/yang2/Desktop/rabbitmq/MicroRabbit/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/netstandard2.0/MicroRabbit.Infra.IoC.pdb

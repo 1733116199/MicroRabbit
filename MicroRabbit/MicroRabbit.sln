@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.Bus", "Infra.Bus\MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{909B80BC-408B-4066-A58D-66E9ECF475AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{703A0718-AF45-4EB6-87E9-11C2055ACC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.IoC", "Infra.IoC\MicroRabbit.Infra.IoC\MicroRabbit.Infra.IoC.csproj", "{A6A6D586-743E-4868-AC4F-989A5D259A0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,9 +52,22 @@ Global
 		{909B80BC-408B-4066-A58D-66E9ECF475AE}.Release|x64.Build.0 = Release|Any CPU
 		{909B80BC-408B-4066-A58D-66E9ECF475AE}.Release|x86.ActiveCfg = Release|Any CPU
 		{909B80BC-408B-4066-A58D-66E9ECF475AE}.Release|x86.Build.0 = Release|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Debug|x64.Build.0 = Debug|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Debug|x86.Build.0 = Debug|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Release|x64.ActiveCfg = Release|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Release|x64.Build.0 = Release|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Release|x86.ActiveCfg = Release|Any CPU
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0CB51222-4714-4DE4-B319-EAFF50B9CBC4} = {A02D8E0A-0274-48EF-9726-311451C3D4D2}
 		{909B80BC-408B-4066-A58D-66E9ECF475AE} = {85FBE848-F890-494B-B9C6-15977240432B}
+		{A6A6D586-743E-4868-AC4F-989A5D259A0B} = {703A0718-AF45-4EB6-87E9-11C2055ACC19}
 	EndGlobalSection
 EndGlobal
