@@ -11,7 +11,7 @@ namespace MicroRabbit.Banking.Data.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=microrabbit.db");
+            optionsBuilder.UseSqlite("Data Source=banking.db");
         }
 
         public DbSet<Account> Accounts { get; set; }
